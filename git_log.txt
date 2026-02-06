@@ -1,0 +1,44 @@
+commit ea0be01a838e9d4f9390afba16a6912cd02a1f80
+Author: Remlap1 <cpalme14@calstatela.edu>
+Date:   Thu Feb 5 23:14:54 2026 -0800
+
+    merge conflict resolve
+
+commit aca953e186f1f6070f21cb4798ddc0917c3c489e
+Author: Remlap1 <cpalme14@calstatela.edu>
+Date:   Thu Feb 5 23:13:22 2026 -0800
+
+    Merge conflict fix
+
+commit 65e59bcc56dcb1d2fba8f302acab58213a9e6fa3
+Author: Remlap1 <cpalme14@calstatela.edu>
+Date:   Thu Feb 5 23:14:54 2026 -0800
+
+    trains no
+
+commit d44c63f580f2a9efe48b7eb8303d903e22f579e1
+Author: Remlap1 <cpalme14@calstatela.edu>
+Date:   Thu Feb 5 23:08:58 2026 -0800
+
+    Create README.md
+
+commit 460789ae5ec8f30b12014464cd3976ed260d7600
+Merge: 1d2bfc0 3eed670
+Author: Remlap1 <cpalme14@calstatela.edu>
+Date:   Thu Feb 5 23:07:36 2026 -0800
+
+    Merge pull request #1 from Remlap1/info-fill
+    
+    added name and hobby
+
+commit 3eed6709b51307e97982daf2cce59c0ff2c47159
+Author: Remlap1 <cpalme14@calstatela.edu>
+Date:   Thu Feb 5 22:52:04 2026 -0800
+
+    added name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
